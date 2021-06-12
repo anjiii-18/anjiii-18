@@ -14,19 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋  
+## Hi there 👋  
 
 I am **Anjali Singhal**!!!
 - 🔭 I am exploring in field of Machine Learning and Artificial Intelligence and have done various projects in different sub-domains of ML & AI.
 - 🌱I have keen interest in Data Science, Finance and Economics. 
 - 👯 I wish to expand my skillset and explore new opportunities. 
 
-
+## Github Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anjiii-18&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjiii-18&layout=compact&theme=gotham&custom_title=Statistics)  
 ![ViewCount](https://komarev.com/ghpvc/?username=anjiii-18&color=1A4730)
-#### Languages and tools:
+
+## Languages and tools:
+
 ![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![scikit_learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
