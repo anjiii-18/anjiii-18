@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Hiii 👋  
 
-I am **Anjali Singhal**!!!
+I am **Anjali Singhal** !!!
 - 🔭 I am exploring in field of Machine Learning and Artificial Intelligence and have done various projects in different sub-domains of ML & AI.
 - 🌱I have keen interest in Data Science, Finance and Economics. 
 - 👯 I wish to expand my skillset and explore new opportunities. 
