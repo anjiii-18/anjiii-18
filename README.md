@@ -49,11 +49,14 @@ I am **Anjali Singhal**!!!
 ## Connect me here:
 
 <a href="https://www.linkedin.com/in/anjali-s-b32153102/">
-  <img alt="Anjali's LinkedIn" src="https://img.shields.io/badge/-LinkedIn-1A4730?style=flat-square&logo=Linkedin&logoColor=white" />
+  <img alt="Anjali's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/anjiii-18">
  <img alt="Anjali's Github" src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
 </a>                                                                                                                           
 <a href="mailto:anjalisinghal18@gmail.com">
   <img alt="Anjali's Email" src="https://img.shields.io/badge/-E--mail-1A4730?style=flat-square&logo=Gmail&logoColor=white" />
+</a> 
+<a href="https://twitter.com/Anjali__Singhal">
+ <img alt="Anjali's Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
 </a> 
