@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 -->
-## Hi there 👋  
+## Hiii 👋  
 
 I am **Anjali Singhal**!!!
 - 🔭 I am exploring in field of Machine Learning and Artificial Intelligence and have done various projects in different sub-domains of ML & AI.
