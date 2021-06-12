@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anjiii-18&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjiii-18&layout=compact&theme=gotham&custom_title=Statistics)  
-![ViewCount](https://komarev.com/ghpvc/?username=anjiii-18&color=1A4730)
+![ViewCount](https://komarev.com/ghpvc/?username=anjiii-18&color=421A47)
 
 ## Languages and tools :
 
