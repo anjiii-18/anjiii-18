@@ -52,7 +52,7 @@ I am **Anjali Singhal**!!!
   <img alt="Anjali's LinkedIn" src="https://img.shields.io/badge/-LinkedIn-1A4730?style=flat-square&logo=Linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/anjiii-18">
- <img alt="Anjali's Github' src= "https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white' />
+ <img alt="Anjali's Github" src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
 </a>                                                                                                                           
 <a href="mailto:anjalisinghal18@gmail.com">
   <img alt="Anjali's Email" src="https://img.shields.io/badge/-E--mail-1A4730?style=flat-square&logo=Gmail&logoColor=white" />
