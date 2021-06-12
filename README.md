@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 -->
-## Hiii 👋  
+# Hiii 👋  
 
 I am **Anjali Singhal** !!!
 - 🔭 I am exploring in field of Machine Learning and Artificial Intelligence and have done various projects in different sub-domains of ML & AI.
 - 🌱I have keen interest in Data Science, Finance and Economics. 
 - 👯 I wish to expand my skillset and explore new opportunities. 
 
-## Github Stats
+## Github Stats :
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anjiii-18&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjiii-18&layout=compact&theme=gotham&custom_title=Statistics)  
