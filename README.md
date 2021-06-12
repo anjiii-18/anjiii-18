@@ -46,12 +46,14 @@ I am **Anjali Singhal**!!!
 ![vs code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
-Are you interested in collaboration? I'm up to any inspiring projects.   
-Get in touch with me through the attached links:  
+## Connect me here:
 
 <a href="https://www.linkedin.com/in/anjali-s-b32153102/">
   <img alt="Anjali's LinkedIn" src="https://img.shields.io/badge/-LinkedIn-1A4730?style=flat-square&logo=Linkedin&logoColor=white" />
 </a>
+<a href="https://github.com/anjiii-18">
+ <img alt="Anjali's Github' src= "https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white' />
+</a>                                                                                                                           
 <a href="mailto:anjalisinghal18@gmail.com">
   <img alt="Anjali's Email" src="https://img.shields.io/badge/-E--mail-1A4730?style=flat-square&logo=Gmail&logoColor=white" />
 </a> 
