@@ -27,7 +27,7 @@ I am **Anjali Singhal** !!!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjiii-18&layout=compact&theme=gotham&custom_title=Statistics)  
 ![ViewCount](https://komarev.com/ghpvc/?username=anjiii-18&color=1A4730)
 
-## Languages and tools:
+## Languages and tools :
 
 ![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -46,7 +46,7 @@ I am **Anjali Singhal** !!!
 ![vs code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
-## Connect me here:
+## Connect me here :
 
 <a href="https://www.linkedin.com/in/anjali-s-b32153102/">
   <img alt="Anjali's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
