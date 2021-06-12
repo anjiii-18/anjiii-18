@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -  I’m currently working on implementation of ML/AI algorithms using python and its various libraries like numpy,pandas,matplotlib,seaborn,keras,tenserflow.
 -  I’m currently learning more in field of application of ML/Ai in various domains of Data Science.
 -  I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with&layout=compact ...
 - 💬  👋Ask me about ...
 - 📫 How to reach me: https://www.linkedin.com/in/anjali-s-b32153102/
 - 😄 Pronouns: She/Her
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ## Github Stats :
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anjiii-18&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=solarized-light) <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjiii-18&layout=compact&theme=solarized-light&custom_title=Statistics)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjiii-18&theme=solarized-light&custom_title=Statistics)  
 ![ViewCount](https://komarev.com/ghpvc/?username=anjiii-18&color=421A47)
 
 ## Languages and tools :
