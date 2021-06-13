@@ -25,7 +25,7 @@ I want to make a difference and work hard for a skillful career. I want to learn
 <!-- <img align="right" src="https://github.com/uannabi/-/blob/master/resource/HelloWorld.gif" width="400px" /> -->
 
 - 🔭  I am exploring in field of Machine Learning and Artificial Intelligence and have done various projects in different sub-domains of ML & AI.
-- 🌱  I have keen interest in Data Science, Finance and Economics.
+- 🌱  I have keen interest in Data Science, Data Analytics, Finance and Economics.
 - 👯  I wish to expand my skillset and explore new opportunities.
 
 
