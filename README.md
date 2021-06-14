@@ -85,6 +85,6 @@ I want to make a difference and work hard for a skillful career. I want to learn
 ## You can start from here ...
 
 <a href="https://github.com/anjiii-18/HackOn_With_Amazon-Aquite"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=anjiii-18&repo=HackOn_With_Amazon-Aquite" width=400> </a> 
-<a href="https://github.com/anjiii-18/color-in-astronomy"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=anjiii-18&repo=color-in-astronomy" width=400> </a> 
+<a href="https://github.com/anjiii-18/Color-in-Astronomy"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=anjiii-18&repo=color-in-astronomy" width=400> </a> 
 <br>
 
